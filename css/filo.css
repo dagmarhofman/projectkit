@@ -1,0 +1,53 @@
+.content {
+    position: absolute;
+    background-color: white;
+    color: black;
+    margin-left: 0px;
+    margin-top: 65px;
+    width: 95%;
+    height: 175px;
+}
+.content h3 {
+    color: blue;
+    margin-left: 0px;
+}
+
+.projects {
+    position: absolute;
+    background-color: white;
+    color: black;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.projects h3 {
+    color: blue;
+    margin-left: 50px;
+}
+
+.resources {
+    position: absolute;
+    background-color: white;
+    color: black;
+    margin-left: 0px;
+    margin-top: 770px;
+    width: 95%;
+    height: 500px;
+}
+
+.tekst {
+    margin-left: 50px;
+    height: 500px;
+}
+
+.topbar {
+    position: absolute;
+    background-color: grey;
+    color: blue:
+    height: 175px;
+    width: 95%;
+}
+.topbar h2 {
+    color: black;
+    margin-left: 50px;
+}
